@@ -1,3 +1,4 @@
+<h2></h2>
 <p align="center"> <h2><p align="center"> 👋 Hi to All, </p></h2>
 
 <h3> <p align="center"> I'm Berat and I live in Istanbul, Turkey! </p> </h3>
@@ -6,13 +7,14 @@
 
 <p align="center"> <img src= "https://c.tenor.com/0i8TCrriHLUAAAAM/developer-developers.gif" </> </p></br></br>
 
+<h2></h2>
 <h2> <p align="center">If you want to contact with me  </br> 👇🏻  </p></h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/berattutumoglu"><img src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/48/Linkedin-icon.png"></a>
 <a href="https://www.instagram.com/berattutumoglu"><img src="https://i.hizliresim.com/5o7y0l1.png"></a>
 <a href="https://www.twitter.com/berattutumoglu"><img src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/48/Twitter-icon.png"></a> 
 </p> <br/><br/><br/>
-
+<h2></h2>
 <h2> <p align="center"> Skills 💪🏻 </p> </h2>
 
 <p align="center">
