@@ -4,7 +4,7 @@
 
 <h4> <p align="center">I'm a new graduated from Electrical-Electronics Engineering. I completed my personal development, is self-confident, suitable for teamwork, responsible, willing to learn and self-improvement, ambitious, researcher and disciplined. I want to continue my career in IT / Software Development (Front-end) </p> </h4> <br/>
 
-<p align="center"> <img src= "https://media4.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=790b7611dccaca71f299a8a493ff7d2d4dc5046280dead42&rid=giphy.gif&ct=g" </> </p></br></br>
+<p align="center"> <img src= "https://c.tenor.com/0i8TCrriHLUAAAAM/developer-developers.gif" </> </p></br></br>
 
 <h2> <p align="center">If you want to contact with me  </br> 👇🏻  </p></h2>
 <p align="center">
