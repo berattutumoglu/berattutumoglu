@@ -3,7 +3,7 @@
 
 <h3> <p align="center"> I'm Berat and I live in Istanbul, Turkey! </p> </h3>
 
-<h4> <p align="center">I'm a new graduated from Electrical-Electronics Engineering. I completed my personal development, is self-confident, suitable for teamwork, responsible, willing to learn and self-improvement, ambitious, researcher and disciplined. I want to continue my career in IT / Software Development (Front-end) </p> </h4> <br/>
+<h4> <p align="center">I'm a new graduated from Electrical-Electronics Engineering. I'm learning HTML, CSS, JavaScript, Git&GitHub and Vue.js. I want to continue my career in IT / Software Development (Front-end) </p> </h4> <br/>
 
 <p align="center"> <img src= "https://c.tenor.com/0i8TCrriHLUAAAAM/developer-developers.gif" </> </p></br></br>
 
