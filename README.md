@@ -1,5 +1,5 @@
-<h1 align="left">Hi 👋, I'm Alican Berat</h1>
-<h3 align="left">I just graduated from Electrical-Electronics Engineering. I want to continue my career in IT / Software Development (Front-end)</h3>
+<h1 align="left">Hi 👋, I'm Alican Berat TUTUMOGLU</h1>
+<h3 align="left">I live in Istanbul, Turkey and I continue my career as a Front-end Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=berattutumoglu&label=Profile%20views&color=0e75b6&style=flat" alt="berattutumoglu" /> </p>
 
