@@ -1,10 +1,10 @@
 <h1 align="left">Hi 👋, I'm Alican Berat TUTUMOGLU</h1>
-<h3 align="left">I live in Istanbul, Turkey and I continue my career as a Front-end Developer.</h3>
+<h3 align="left">I live in Istanbul, Turkey and I continue my career as a Software Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=berattutumoglu&label=Profile%20views&color=0e75b6&style=flat" alt="berattutumoglu" /> </p>
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, Vue.js**
-- 🤝 I’m looking for help with **Front-end Development**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript, XSJS, SQL**
+- 🤝 I’m looking for help with **Software Development**
 - 📫 How to reach me **berattutumoglu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
